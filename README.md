@@ -22,7 +22,15 @@ Included Files
 --------------
 
 Manifest.json - The package for Chrome
+
 AsteriskAMI.js - The standalone class for connecting to asterisk
 
 background.js - The demo script, used to connect to the Boiler Framework API
+
 jquery.js - The library used for background.js
+
+
+Useful Links
+------------
+
+* [Bluelight Studios Article|http://bluelightstudios.co.uk/]
