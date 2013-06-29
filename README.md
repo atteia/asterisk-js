@@ -13,10 +13,9 @@ Prerequisites
 Installation
 ------------
 
-1) Alter the manifest file to include any external resources you may need (Like the Boiler Framework API)
-2) Alter the background.js file to include the login information for your Asterisk AMI (normally port 5038).
-Configuring this is out of the scope of this tutorial.
-3) Add the extension either packed or unpacked to Google Chrome using the Extensions page ([chrome://extensions]),
+1. Alter the manifest file to include any external resources you may need (Like the Boiler Framework API)
+2. Alter the background.js file to include the login information for your Asterisk AMI (normally port 5038). Configuring this is out of the scope of this tutorial.
+3. Add the extension either packed or unpacked to Google Chrome using the Extensions page ([chrome://extensions]),
 enabling developers tools
 
 Included Files
