@@ -6,7 +6,7 @@
   "manifest_version": 2,
   "app": {
     "background": {
-      "scripts": ["personal.js", "AsteriskAMI.js", "jquery.js", "background.js"]
+      "scripts": ["AsteriskAMI.js", "jquery.js", "background.js"]
     }
   },
   "permissions": [
